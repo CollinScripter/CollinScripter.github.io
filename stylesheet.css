@@ -1,0 +1,13 @@
+body {
+	background-color: #282C34;
+	color: #E0E0E0;
+	text-align: center;
+	margin-top: 5%;
+	font-family: Arial, Roboto;
+}
+
+#avatar {
+	border-radius: 50%;
+	max-width: 300px;
+	min-width: 200px;
+}
