@@ -11,3 +11,32 @@ body {
 	border-radius: 50%;
 	max-width: 280px;
 }
+
+
+table {
+	min-width: 280px;
+	width: 40%;
+	margin-top: 5%;
+}
+
+td {
+	padding: 3px;
+}
+
+a {
+	text-decoration: none;
+	color: #E0E0E0;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+ 
+a:active {
+	text-decoration: underline;
+}
+
+.icon {
+	min-height: 90px;
+	max-height: 128px;
+}
