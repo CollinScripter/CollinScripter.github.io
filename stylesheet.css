@@ -12,7 +12,6 @@ body {
 	max-width: 280px;
 }
 
-
 table {
 	min-width: 280px;
 	width: 40%;
@@ -22,6 +21,7 @@ table {
 
 td {
 	padding: 3px;
+	font-size: 1.25em;
 }
 
 a {
@@ -40,4 +40,8 @@ a:active {
 .icon {
 	min-height: 90px;
 	max-height: 128px;
+}
+
+#desc {
+	font-size: 1.5em;
 }
