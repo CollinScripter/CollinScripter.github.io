@@ -16,6 +16,7 @@ body {
 table {
 	min-width: 280px;
 	width: 40%;
+	table-layout: fixed;
 	margin-top: 5%;
 }
 
