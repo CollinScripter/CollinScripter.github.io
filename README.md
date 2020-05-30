@@ -1,1 +1,2 @@
-# CollinScripter.github.io
+# CollinScripter
+Personal page with contact information
